@@ -1,0 +1,3 @@
+[submodule "hellogitworld"]
+	path = hellogitworld
+	url = https://github.com/githubtraining/hellogitworld.git
